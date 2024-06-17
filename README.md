@@ -14,6 +14,10 @@ API gateway configured with POST operation on the lambda function:
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/3ebdd25b-9c19-428c-8937-f6c098ca5673)
 
 
+IAM role configured with policies to allow lambda function to access the RDS instance:
+![image](https://github.com/parth1314/lambda_rds/assets/97305249/8f5e2a32-7bc7-46f0-b72e-cf75ecbdabb2)
+
+
 Payload sent by POSTMAN api to carry out create operation:
 
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/5f619107-828d-45f7-824e-1d08bfe759d9)
