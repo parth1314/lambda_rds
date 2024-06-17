@@ -18,7 +18,7 @@ IAM role configured with policies to allow lambda function to access the RDS ins
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/8f5e2a32-7bc7-46f0-b72e-cf75ecbdabb2)
 
 
-Payload sent by POSTMAN api to carry out create operation:
+Payload sent by POSTMAN api to carry out CREATE operation:
 
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/5f619107-828d-45f7-824e-1d08bfe759d9)
 
@@ -26,4 +26,15 @@ Payload sent by POSTMAN api to carry out create operation:
 Record created in the table:
 
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/f9e8d9e4-dfad-4757-ab1a-fecf9615af76)
+
+
+Payload sent by POSTMAN api to carry out UPDATE operation:
+
+![image](https://github.com/parth1314/lambda_rds/assets/97305249/6c1085e2-ec06-44a7-af7c-49fcb12dee78)
+
+
+Record updated in the table:
+
+![image](https://github.com/parth1314/lambda_rds/assets/97305249/dc9debb3-473a-41f5-a201-69e5587e0ad5)
+
 
