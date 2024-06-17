@@ -19,7 +19,7 @@ Payload sent by POSTMAN api to carry out create operation:
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/5f619107-828d-45f7-824e-1d08bfe759d9)
 
 
-Record updated in the table:
+Record created in the table:
 
 ![image](https://github.com/parth1314/lambda_rds/assets/97305249/f9e8d9e4-dfad-4757-ab1a-fecf9615af76)
 
